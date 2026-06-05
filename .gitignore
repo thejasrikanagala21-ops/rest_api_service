@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
